@@ -1,0 +1,109 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/usr/home/daniel/projects/next-weather/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+*	styles/globals.css	/^* {  $/;"	s
+.active	components/UnitSwitch.module.css	/^.active {$/;"	c
+.card	styles/Home.module.scss	/^.card h2 {$/;"	c
+.card	styles/Home.module.scss	/^.card p {$/;"	c
+.card	styles/Home.module.scss	/^.card {$/;"	c
+.card:active	styles/Home.module.scss	/^.card:active {$/;"	c
+.card:focus	styles/Home.module.scss	/^.card:focus,$/;"	c
+.card:hover	styles/Home.module.scss	/^.card:hover,$/;"	c
+.code	styles/Home.module.scss	/^.code {$/;"	c
+.container	styles/Home.module.scss	/^.container {$/;"	c
+.content	components/MetricsCard.module.css	/^  .content {$/;"	c
+.content	components/MetricsCard.module.css	/^.content {$/;"	c
+.description	components/MainCard.module.css	/^.description {$/;"	c
+.description	styles/Home.module.scss	/^.description {$/;"	c
+.footer	styles/Home.module.scss	/^.footer a {$/;"	c
+.footer	styles/Home.module.scss	/^.footer {$/;"	c
+.grid	styles/Home.module.scss	/^  .grid {$/;"	c
+.grid	styles/Home.module.scss	/^.grid {$/;"	c
+.inactive	components/UnitSwitch.module.css	/^.inactive {$/;"	c
+.location	components/MainCard.module.css	/^.location {$/;"	c
+.logo	styles/Home.module.scss	/^.logo {$/;"	c
+.main	styles/Home.module.scss	/^.main {$/;"	c
+.message	components/ErrorScreen.module.css	/^.message {$/;"	c
+.search	components/Search.module.css	/^  .search {$/;"	c
+.search	components/Search.module.css	/^.search {$/;"	c
+.switch	components/UnitSwitch.module.css	/^  .switch {$/;"	c
+.switch	components/UnitSwitch.module.css	/^.switch {$/;"	c
+.temperature	components/MainCard.module.css	/^.temperature {$/;"	c
+.title	styles/Home.module.scss	/^.title a {$/;"	c
+.title	styles/Home.module.scss	/^.title a:active {$/;"	c
+.title	styles/Home.module.scss	/^.title a:focus,$/;"	c
+.title	styles/Home.module.scss	/^.title a:hover,$/;"	c
+.title	styles/Home.module.scss	/^.title {$/;"	c
+.title	styles/Home.module.scss	/^.title,$/;"	c
+.wrapper	components/ContentBox.module.css	/^.wrapper {$/;"	c
+.wrapper	components/DateAndTime.module.css	/^.wrapper {$/;"	c
+.wrapper	components/ErrorScreen.module.css	/^.wrapper {$/;"	c
+.wrapper	components/Header.module.css	/^  .wrapper {$/;"	c
+.wrapper	components/Header.module.css	/^.wrapper {$/;"	c
+.wrapper	components/MainCard.module.css	/^.wrapper {$/;"	c
+.wrapper	components/MetricsBox.module.css	/^  .wrapper {$/;"	c
+.wrapper	components/MetricsBox.module.css	/^.wrapper {$/;"	c
+.wrapper	components/MetricsCard.module.css	/^.wrapper {$/;"	c
+.wrapper	components/UnitSwitch.module.css	/^  .wrapper {$/;"	c
+.wrapper	components/UnitSwitch.module.css	/^.wrapper {$/;"	c
+.wrapper	styles/Home.module.css	/^.wrapper {  display: grid;  grid-template-columns: 1fr 2fr;  max-width: 1200px;  background: rgb/;"	c
+.wrapper	styles/Home.module.css	/^@media only screen and (max-width: 600px) {  .wrapper {    margin: 0;    border-radius: 0;  }}$/;"	c
+.wrapper	styles/Home.module.css	/^@media only screen and (max-width: 950px) {  .wrapper {    grid-template-columns: 1fr;    max-wi/;"	c
+0	tsconfig.json	/^    "lib": ["dom", "dom.iterable", "esnext"],$/;"	s	array:compilerOptions.lib
+0	tsconfig.json	/^  "exclude": ["node_modules"]$/;"	s	array:exclude
+0	tsconfig.json	/^  "include": ["next-env.d.ts", "**\/*.ts", "**\/*.tsx"],$/;"	s	array:include
+1	tsconfig.json	/^    "lib": ["dom", "dom.iterable", "esnext"],$/;"	s	array:compilerOptions.lib
+1	tsconfig.json	/^  "include": ["next-env.d.ts", "**\/*.ts", "**\/*.tsx"],$/;"	s	array:include
+2	tsconfig.json	/^    "lib": ["dom", "dom.iterable", "esnext"],$/;"	s	array:compilerOptions.lib
+2	tsconfig.json	/^  "include": ["next-env.d.ts", "**\/*.ts", "**\/*.tsx"],$/;"	s	array:include
+Data	pages/api/data.ts	/^type Data = {$/;"	a
+Deploy on Vercel	README.md	/^## Deploy on Vercel$/;"	s
+Getting Started	README.md	/^## Getting Started$/;"	s
+Learn More	README.md	/^## Learn More$/;"	s
+allowJs	tsconfig.json	/^    "allowJs": true,$/;"	b	object:compilerOptions
+body	styles/globals.css	/^body {  $/;"	s
+cityInput	pages/api/data.ts	/^  const { cityInput } = req.body;$/;"	C	function:handler
+compilerOptions	tsconfig.json	/^  "compilerOptions": {$/;"	o
+ctoF	services/converter.ts	/^export const ctoF = (c: number) => (c * 9) \/ 5 + 32;$/;"	C
+data	pages/api/data.ts	/^  const data = await getWeatherData.json();$/;"	C	function:handler
+degToCompass	services/converter.ts	/^export const degToCompass = (num: number) => {$/;"	C
+esModuleInterop	tsconfig.json	/^    "esModuleInterop": true,$/;"	b	object:compilerOptions
+exclude	tsconfig.json	/^  "exclude": ["node_modules"]$/;"	a
+extends	.eslintrc.json	/^  "extends": "next\/core-web-vitals"$/;"	s
+forceConsistentCasingInFileNames	tsconfig.json	/^    "forceConsistentCasingInFileNames": true,$/;"	b	object:compilerOptions
+getAMPM	services/helpers.ts	/^export const getAMPM = ($/;"	C
+getCssText	stitches.config.ts	/^export const { styled, getCssText } = createStitches({$/;"	C
+getTime	services/helpers.ts	/^export const getTime = ($/;"	C
+getVisibility	services/helpers.ts	/^export const getVisibility = ($/;"	C
+getWeatherData	pages/api/data.ts	/^  const getWeatherData = await fetch($/;"	C	function:handler
+getWeekDay	services/helpers.ts	/^export const getWeekDay = (weatherData: any) => {$/;"	C
+getWindSpeed	services/helpers.ts	/^export const getWindSpeed = (unitSystem: string, windInMps: number) => {$/;"	C
+handler	pages/api/data.ts	/^export default async function handler($/;"	f
+include	tsconfig.json	/^  "include": ["next-env.d.ts", "**\/*.ts", "**\/*.tsx"],$/;"	a
+incremental	tsconfig.json	/^    "incremental": true$/;"	b	object:compilerOptions
+isolatedModules	tsconfig.json	/^    "isolatedModules": true,$/;"	b	object:compilerOptions
+jsx	tsconfig.json	/^    "jsx": "preserve",$/;"	s	object:compilerOptions
+kmToMiles	services/converter.ts	/^export const kmToMiles = (km: number) => (km \/ 1.609).toFixed(1);$/;"	C
+lib	tsconfig.json	/^    "lib": ["dom", "dom.iterable", "esnext"],$/;"	a	object:compilerOptions
+module	tsconfig.json	/^    "module": "esnext",$/;"	s	object:compilerOptions
+moduleResolution	tsconfig.json	/^    "moduleResolution": "node",$/;"	s	object:compilerOptions
+mpsToMph	services/converter.ts	/^export const mpsToMph = (mps: number) => (mps * 2.236936).toFixed(2);$/;"	C
+nextConfig	next.config.js	/^const nextConfig = {$/;"	c
+noEmit	tsconfig.json	/^    "noEmit": true,$/;"	b	object:compilerOptions
+reactStrictMode	next.config.js	/^  reactStrictMode: true,$/;"	p	class:nextConfig
+resolveJsonModule	tsconfig.json	/^    "resolveJsonModule": true,$/;"	b	object:compilerOptions
+skipLibCheck	tsconfig.json	/^    "skipLibCheck": true,$/;"	b	object:compilerOptions
+strict	tsconfig.json	/^    "strict": true,$/;"	b	object:compilerOptions
+styled	stitches.config.ts	/^export const { styled, getCssText } = createStitches({$/;"	C
+swcMinify	next.config.js	/^  swcMinify: false,$/;"	p	class:nextConfig
+target	tsconfig.json	/^    "target": "es5",$/;"	s	object:compilerOptions
+timeTo12HourFormat	services/converter.ts	/^export const timeTo12HourFormat = (time: any) => {$/;"	C
+unixToLocalTime	services/converter.ts	/^export const unixToLocalTime = (unixSeconds: any, timezone: any) => {$/;"	C
